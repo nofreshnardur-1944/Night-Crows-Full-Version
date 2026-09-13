@@ -269,4 +269,4 @@ This repository serves as the official landing page for Night Crows. The softwar
 **Get the most recent version of Night Crows today!**
 
 ---
-**Last updated:** 2026-09-13 14:06:44 UTC
+**Last updated:** 2026-09-13 17:56:25 UTC
